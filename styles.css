@@ -1,4 +1,6 @@
 body {
     background-color: orangered;
     height: 100vh;
+    font-family: sans-serif;
+    color: white;
 }
